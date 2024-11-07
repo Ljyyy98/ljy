@@ -6,19 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="background-color:#D9EAD3; padding:10px;">
+<div style="background-color:#D9EAD3; padding:6px;">
 <h2>About</h2>
 </div>
 
 I am a graduate student at the University of Chicago under the supervision of Professor [Frank Calegari](https://math.uchicago.edu/~fcale/). My research is in the area of algebraic number theory, especially the computation of deformation rings. I am on the job market this year. Here is my [CV](_pages/Jinyue - CV.pdf).
 
-<div style="background-color:#F4CCCC; padding:10px;">
+<div style="background-color:#F4CCCC; padding:6px;">
 <h2>Preprints</h2>
 </div>
 
 1. [Pseudorepresentations Not Arising from Genuine Representations](https://arxiv.org/abs/2310.16953)
 
-<div style="background-color:#C9DAF8; padding:10px;">
+<div style="background-color:#C9DAF8; padding:6px;">
 <h2>Teaching</h2>
 </div>
 

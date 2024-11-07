@@ -12,7 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
-  width: 350px;
+  width: 300px;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
@@ -21,6 +21,10 @@
     padding-top: $masthead-height;
   }
 
+  @media (max-width: 480px) {
+    width: 100%; /* Sidebar width fills the screen on mobile */
+  }
+   
   @include breakpoint($large) {
     @include span(3 of 12);
     opacity: 1;
@@ -112,9 +116,6 @@
 }
 
 @media (max-width: 480px) {
-  .sidebar {
-    width: 100%; /* Sidebar width fills the screen on mobile */
-  }
   .author__avatar img {
     width: 100%; /* Ensures image fills the screen width */
     max-width: none; /* Removes max-width constraint for mobile */

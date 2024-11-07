@@ -90,13 +90,26 @@
   }
 
   img {
-    max-width: 200px;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
     border-radius: 0;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
     }
+  }
+}
+@media (max-width: 768px) {
+  .author__avatar img {
+    max-width: 200px; /* Adjust size for tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  .author__avatar img {
+    max-width: 150px; /* Adjust size for mobile phones */
   }
 }
 

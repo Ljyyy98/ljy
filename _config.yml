@@ -12,9 +12,9 @@ title                    : "Jinyue Luo / 罗金玥"
 title_separator          : "-"
 name                     : &name "Jinyue Luo"
 description              : &description "personal description"
-url                      : https://ljyyy98.github.io/academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ljyyy98.github.io/ljy # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ljyyy98/academicpages.github.io"
+repository               : "Ljyyy98/ljy"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

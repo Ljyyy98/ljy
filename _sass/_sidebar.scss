@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  width: 350px;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
@@ -21,7 +22,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -32,7 +33,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
+    max-width: 400px;
     padding-right: 0;
   }
 
@@ -102,14 +103,21 @@
   }
 }
 @media (max-width: 768px) {
+  .sidebar {
+    width: 300px; /* Adjust sidebar width for tablets */
+  }
   .author__avatar img {
-    max-width: 200px; /* Adjust size for tablets */
+    max-width: 250px; /* Adjust size for tablets */
   }
 }
 
 @media (max-width: 480px) {
+  .sidebar {
+    width: 100%; /* Sidebar width fills the screen on mobile */
+  }
   .author__avatar img {
-    max-width: 150px; /* Adjust size for mobile phones */
+    width: 100%; /* Ensures image fills the screen width */
+    max-width: none; /* Removes max-width constraint for mobile */
   }
 }
 

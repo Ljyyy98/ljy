@@ -14,12 +14,12 @@ I am a graduate student at the University of Chicago under the supervision of Pr
 
 1. [Pseudorepresentations Not Arising from Genuine Representations](https://arxiv.org/abs/2310.16953)
 
-## Teachinng
+## Teaching
 
 ### Graduate Instructor 
 - **2024-2025** MATH 152 - Calculus II, Autumn 2024; MATH 153 - Calculus III, Winter 2025
 - **2023-2024** MATH 153 - Calculus III, Autumn 2023
-- **2022-2023** MATH 152 - Calculus I, Autumn 2022; MATH 153 - Calculus II, Winter 2023
+- **2022-2023** MATH 152 - Calculus II, Autumn 2022; MATH 153 - Calculus III, Winter 2023
 - **2021-2022** MATH 131 - Calculus I, Autumn 2021; MATH 132 - Calculus II, Winter 2022; MATH 133 - Calculus III, Spring 2022
 
 ### Teaching Assistant

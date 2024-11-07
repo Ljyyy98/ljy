@@ -14,7 +14,7 @@ Email: jinyue at uchicago dot edu
 
 ## Preprints
 
-1. [Pseudorepresentations Not Arising from Genuine Representations](https://arxiv.org/abs/2310.16953)
+1. [Pseudorepresentations not arising from genuine representations](https://arxiv.org/abs/2310.16953)
 
 ## Teaching
 

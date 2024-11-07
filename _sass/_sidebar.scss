@@ -12,7 +12,6 @@
 
   @include clearfix();
   margin-bottom: 1em;
-  width: 300px;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
@@ -22,11 +21,11 @@
   }
 
   @media (max-width: 480px) {
-    width: 100%; /* Sidebar width fills the screen on mobile */
+    width: 100%; /* Full width on mobile phones */
   }
-   
+
   @include breakpoint($large) {
-    @include span(3 of 12);
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -37,7 +36,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: 400px;
+    max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
 
@@ -95,9 +94,7 @@
   }
 
   img {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
+    max-width: 200px;
     border-radius: 0;
 
     @include breakpoint($large) {
@@ -105,20 +102,12 @@
       border: 1px solid $border-color;
     }
   }
-}
-@media (max-width: 768px) {
-  .sidebar {
-    width: 300px; /* Adjust sidebar width for tablets */
-  }
-  .author__avatar img {
-    max-width: 250px; /* Adjust size for tablets */
-  }
-}
 
-@media (max-width: 480px) {
-  .author__avatar img {
-    width: 100%; /* Ensures image fills the screen width */
-    max-width: none; /* Removes max-width constraint for mobile */
+  @media (max-width: 480px) {
+    img {
+      width: 100%; /* Fills screen width */
+      max-width: none; /* Removes size restriction */
+    }
   }
 }
 

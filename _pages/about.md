@@ -25,5 +25,4 @@ Email: jinyue at uchicago dot edu
 - **2021-2022** MATH 131 - Calculus I, Autumn 2021; MATH 132 - Calculus II, Winter 2022; MATH 133 - Calculus III, Spring 2022
 
 ### Teaching Assistant
-- **2020-2021**
-  - MATH 257 - 258 - 259 sequence - Honors Algebra, Autumn 2020, Winter 2021, Spring 2021
+- **2020-2021** MATH 257 - 258 - 259 sequence - Honors Algebra, Autumn 2020, Winter 2021, Spring 2021

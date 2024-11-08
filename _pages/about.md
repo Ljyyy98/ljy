@@ -16,7 +16,7 @@ Email: jinyue at uchicago dot edu
 
 </div>
   <div style="flex: 1; text-align: center;">
-    <img src="https://path.to/your/image.jpg" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 0;">
+    <img src="_images/IMG_4530.png" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 0;">
   </div>
 </div>
 

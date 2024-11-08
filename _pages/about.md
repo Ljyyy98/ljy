@@ -9,7 +9,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <h2>About</h2>
-    <p>I am a graduate student at the University of Chicago under the supervision of Professor <a href="https://math.uchicago.edu/~fcale/" target="_blank">Frank Calegari</a>. My research is in the area of algebraic number theory, especially the computation of deformation rings. I am on the job market this year. Here is my <a href="ljy/_pages/Jinyue - CV.pdf" target="_blank">CV</a>.</p>
+    <p>I am a graduate student at the University of Chicago under the supervision of Professor <a href="https://math.uchicago.edu/~fcale/" target="_blank">Frank Calegari</a>. My research is in the area of algebraic number theory, especially the computation of deformation rings. I am on the job market this year. Here is my <a href="/_pages/Jinyue - CV.pdf" target="_blank">CV</a>.</p>
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="images/IMG_4530.png" alt="Your Image" style="max-width: 100%; height: auto;">

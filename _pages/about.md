@@ -8,15 +8,15 @@ redirect_from:
 ---
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
-## About
+  ## About
 
-I am a graduate student at the University of Chicago under the supervision of Professor [Frank Calegari](https://math.uchicago.edu/~fcale/). My research is in the area of algebraic number theory, especially the computation of deformation rings. I am on the job market this year. Here is my [CV](_pages/Jinyue - CV.pdf).
+  I am a graduate student at the University of Chicago under the supervision of Professor [Frank Calegari](https://math.uchicago.edu/~fcale/). My research is in the area of algebraic number theory, especially the computation of deformation rings. I am on the job market this year. Here is my [CV](pages/Jinyue - CV.pdf).
 
-Email: jinyue at uchicago dot edu
+  Email: jinyue at uchicago dot edu
 
 </div>
   <div style="flex: 1; text-align: center;">
-    <img src="_images/IMG_4530.png" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 0;">
+    <img src="images/IMG_4530.png" alt="Profile Image" style="max-width: 100%; height: auto; border-radius: 0;">
   </div>
 </div>
 

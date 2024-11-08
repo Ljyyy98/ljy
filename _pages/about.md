@@ -10,6 +10,8 @@ redirect_from:
   <div style="flex: 1; padding-right: 20px;">
     <h2>About</h2>
     <p>I am a graduate student at the University of Chicago under the supervision of Professor <a href="https://math.uchicago.edu/~fcale/" target="_blank">Frank Calegari</a>. My research is in the area of algebraic number theory, especially the computation of deformation rings. I am on the job market this year. Here is my <a href="/ljy/assets/Jinyue%20-%20CV.pdf" target="_blank">CV</a>. 
+</p>
+<p>
     Email: jinyue at uchicago dot edu</p>
   </div>
   <div style="flex: 1; text-align: center;">

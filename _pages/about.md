@@ -26,7 +26,7 @@ redirect_from:
 ## Teaching
 
 ### Graduate Instructor 
-- **2024-2025** MATH 152/153 - Calculus II/III
+- **2024-2025** MATH 152 - Calculus II / Math 15250 - Mathematical Methods for Economic Analysis
 - **2023-2024** MATH 153 - Calculus III
 - **2022-2023** MATH 152/153 - Calculus II/III
 - **2021-2022** MATH 131/132/133 - Calculus I/II/III

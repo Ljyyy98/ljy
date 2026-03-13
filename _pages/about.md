@@ -9,7 +9,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <h2>About</h2>
-    <p>I am a graduate student at the University of Chicago under the supervision of Professor <a href="https://math.uchicago.edu/~fcale/" target="_blank">Frank Calegari</a>. My research is in the area of algebraic number theory, especially the computation of deformation rings. I am on the job market this year. Here is my <a href="/ljy/assets/Jinyue-cv-02-25.pdf" target="_blank">CV</a>.</p>
+    <p>I am a Postdoctoral Research Associate at the University of Arizona since August 2025. My mentors are [Anna Medvedovsky](https://www.math.arizona.edu/people/medved) and [Robert Pollack](https://rpollack9974.github.io/web/).I received my PhD from University of Chicago in June 2025, under the supervision of Professor <a href="https://math.uchicago.edu/~fcale/" target="_blank">Frank Calegari</a>. My research is in the area of algebraic number theory, especially the computation of deformation rings. Here is my <a href="/ljy/assets/Jinyue-cv-02-25.pdf" target="_blank">CV</a>.</p>
 
   </div>
   <div style="flex: 1; text-align: center;">
@@ -25,11 +25,33 @@ redirect_from:
 
 ## Teaching
 
-### Graduate Instructor 
-- **2024-2025** MATH 152 - Calculus II / Math 15250 - Mathematical Methods for Economic Analysis
+### University of Arizona
+
+#### Instructor
+- **2025-2026** MATH 122B - Calculus I
+- **2025-2026** MATH 313 - Introduction to Linear Algebra (online)
+- **2025-2026** MATH 396L - WildCat Proofs Workshop
+
+### University of Chicago
+
+#### Graduate Instructor
+- **2024-2025** MATH 152 - Calculus II / MATH 15250 - Mathematical Methods for Economic Analysis
 - **2023-2024** MATH 153 - Calculus III
 - **2022-2023** MATH 152/153 - Calculus II/III
 - **2021-2022** MATH 131/132/133 - Calculus I/II/III
 
-### Teaching Assistant
-- **2020-2021** MATH 257/258/259 sequence - Honors Algebra, Autumn 2020, Winter 2021, Spring 2021
+#### Teaching Assistant
+- **2020-2021** MATH 257/258/259 sequence - Honors Algebra I/II/III
+
+#### Mentor
+- **2023** Directed Reading Program in Number Theory
+- **2023-2024** Research Experience for Undergraduates program
+
+## Service
+
+### University of Arizona
+- **2025-present** Coordinator of Undergraduate Teaching Assistant Program
+- **2025-present** Postdoc Teaching Representative
+
+### University of Chicago
+- **2021-2022** Co-organizer of No Theory seminar

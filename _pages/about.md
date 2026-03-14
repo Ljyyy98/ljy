@@ -9,7 +9,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <h2>About</h2>
-    <p>I am a Postdoctoral Research Associate at the University of Arizona since August 2025. My mentors are <a href="https://www.math.arizona.edu/people/medved" target="_blank">Anna Medvedovsky</a> and <a href="https://rpollack9974.github.io/web/" target="_blank">Robert Pollack</a>.I received my PhD from University of Chicago in June 2025, under the supervision of <a href="https://math.uchicago.edu/~fcale/" target="_blank">Frank Calegari</a>. My research is in the area of algebraic number theory, especially the computation of deformation rings.</p>
+    <p>I am a Postdoctoral Research Associate at the University of Arizona since August 2025. My mentors are <a href="https://www.math.arizona.edu/people/medved" target="_blank">Anna Medvedovsky</a> and <a href="https://rpollack9974.github.io/web/" target="_blank">Robert Pollack</a>. I received my PhD from University of Chicago in June 2025, under the supervision of <a href="https://math.uchicago.edu/~fcale/" target="_blank">Frank Calegari</a>. My research is in the area of algebraic number theory, especially the computation of deformation rings.</p>
     
   </div>
   <div style="flex: 1; text-align: center;">
@@ -17,7 +17,7 @@ redirect_from:
   </div>
 </div>
 
-
+<hr>
 
 ## Preprints
 
